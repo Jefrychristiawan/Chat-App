@@ -15,10 +15,25 @@
 - **React.js**: ![React Icon](https://img.icons8.com/color/48/000000/react-native.png)
 - **Node.js**: ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png)
 - **Tailwind CSS**: ![Tailwind CSS Icon](https://img.icons8.com/color/48/000000/tailwindcss.png)
-- **Socket.io**: ![Socket.io Icon](https://img.icons8.com/color/48/000000/socket-io.png)
+- **Socket.io**
 
 ## 🎨 Styling
 
 The app is styled using **Tailwind CSS** to provide a clean and responsive user interface.
 
-## 📦 Installation
+## 📦 Installation & Run Step
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Jefrychristiawan/Chat-App.git
+2. Open up 2 terminals
+3. in first terminal:
+   ```bash
+   npm install
+   npm run server
+4. in second terminal:
+   ```bash
+   cd frontend
+   npm install
+   npm run dev

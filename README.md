@@ -37,3 +37,7 @@ The app is styled using **Tailwind CSS** to provide a clean and responsive user 
    cd frontend
    npm install
    npm run dev
+
+## Login Data (For Testing Purposes)
+- First Account. Username: testingpurposes1, Password: testingpurposes1
+- Second Account. Username: testingpurposes2, Password: testingpurposes2
